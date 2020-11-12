@@ -1,0 +1,12 @@
+{
+    "name": "devsmine/classes",
+    "description": "medoo framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nazrul Islam Nadeem",
+            "email": "nzl.nadeem@gmail.com"
+        }
+    ],
+    "require": {}
+}
